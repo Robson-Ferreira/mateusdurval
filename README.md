@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 About me
 
-# • I am passionate about technology and I am always in constant learning. 💻
-# • I like electronic music
-# • Run 🏃‍♂❤
+#### • I am passionate about technology and I am always in constant learning. 💻
+#### • I like electronic music
+#### • Run 🏃‍♂❤
