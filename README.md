@@ -1,4 +1,4 @@
-### Hi, I'm Mateus Durval 😄👋
+<h2>Hi, I'm Mateus Durval 😄👋<h2>
 ___
 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>About me</h2>
+<h3>About me</h3>
 
 <div>
   <p> • I am passionate about technology and I am always in constant learning. 💻 </p>
