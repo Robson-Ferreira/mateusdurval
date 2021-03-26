@@ -12,5 +12,5 @@
 <ul>
   <li>🎓 Software development student at @<a href="https://www.unifacs.br/">Unifacs - Universidade Salvador</a></i>
   <li>⌨ C, C++, Java, PHP, Laravel, Yii2, Node.js, Adonis.js, React.js, jQuery, Ajax, MySQL, PostgreSQL, MongoDB, Arquitetura MVC, Javascript, HML5, CSS3, Responsive Designer, UX Design...</li>
-  <li>⚙ Git, GitHub, Gitlab, Postman, Insomnia, DBeaver, Postico, Docker, Visual Studio Code</li>
+  <li>⚙ Docker, Git, GitHub, Gitlab, Postman, Insomnia, DBeaver, Postico, Visual Studio Code</li>
 </ul>
