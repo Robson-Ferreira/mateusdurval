@@ -7,3 +7,8 @@
   <li> Tricolor Paulista SPFC 🇾🇪⚽♥ </li>
   <li> Run 🏃‍♂❤ </li>
 </ul>
+
+<h3>Career<h3>
+<ul>
+  <li> PHP, Laravel, Yii2, Node.js, Adonis.js, React.js, MySQL, PostgreSQL, jQuery, Ajax, Arquitetura MVC, Javascript, HML5, CSS3, Git, Github...</li>
+</ul>
