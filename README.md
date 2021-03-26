@@ -1,5 +1,5 @@
-### Hi, I'm Mateus Durval 👋
-______________________________________________
+### Hi, I'm Mateus Durval 😄👋
+___
 
 <!--
 **mateusdurval/mateusdurval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 -->
 
 About me
+
+# • I am passionate about technology and I am always in constant learning. 💻
+# • I like electronic music
+# • Run 🏃‍♂❤
