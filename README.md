@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me
+<h2>About me</h2>
 
-<p> • I am passionate about technology and I am always in constant learning. 💻 </p>
-<p> • I like electronic music </p>
-<p> • Run 🏃‍♂❤ </p>
+<div>
+  <p> • I am passionate about technology and I am always in constant learning. 💻 </p>
+  <p> • I like electronic music </p>
+  <p> • Run 🏃‍♂❤ </p>
+</div>
