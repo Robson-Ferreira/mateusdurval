@@ -6,8 +6,6 @@ ___
 
 <h3>About me</h3>
 
-<div>
-  <p> • I am passionate about technology and I am always in constant learning. 💻 </p>
-  <p> • I like electronic music </p>
-  <p> • Run 🏃‍♂❤ </p>
-</div>
+<p> • I am passionate about technology and I am always in constant learning. 💻 </p>
+<p> • I like electronic music </p>
+<p> • Run 🏃‍♂❤ </p>
